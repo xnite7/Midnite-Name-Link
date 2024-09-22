@@ -35,7 +35,7 @@ public class NameLinkAPI {
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
     // The URL of the API that provides the name-to-nickname mappings
-    static final String API_URL = "https://gwaff.uqcloud.net/api/spooncraft";
+    static final String API_URL = "https://www.jsonkeeper.com/b/G9UI";
     // The file path to cache the JSON data locally in case of API failure.
     static final String CACHE_PATH = "config/spooncraft-name-link-cache.json";
 
