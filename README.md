@@ -1,8 +1,8 @@
-# Spooncraft Name Link
+# Midnite Name Link
 Links nicknames and name colours with the Midnite Discord server.
 
 ## Features
-Midnite Name Link displays the nickname and colour of Mumbo Jumbo Discord
+Midnite Name Link displays the nickname and colour of Midnite Discord
 server members in game.<br>
 It currently supports nicknames and colours in the server tablist and player nametags,
 and nicknames in chat messages.
